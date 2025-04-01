@@ -1,1 +1,1 @@
-i’m a second-year student at the University of Toronto, specializing in Computer Science, with a major in Statistics and a minor in Math. i spend most of my time digging through CTF challenges, breaking stuff (legally), and occasionally documenting it all when i remember. i use [ilovectfs.com](https://ilovectfs.com) purely for writeups - no blog posts, no extras, just flags and notes.
+i enjoy playing ctfs — just started posting writeups at [ilovectfs.com](https://ilovectfs.com).
